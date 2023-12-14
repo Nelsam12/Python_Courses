@@ -1,0 +1,3 @@
+Id,Libelle,Qte,PVu,Description,Total
+1,Pomme,4,200,Delicieuses pommes fraiches,800
+-,-,-,-,Total,800

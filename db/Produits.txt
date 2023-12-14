@@ -1,0 +1,41 @@
+Id,Libelle,Prix,Quantite,Description
+1,Pomme,200,76,Delicieuses pommes fraiches
+2,Pain de ble,300,23,Pain croustillant fait de ble
+3,Fromage cheddar,5,14,Fromage cheddar vieilli
+4,Jambon cuit,400,9,Jambon cuit de qualite
+5,Yaourt nature,100,41,Yaourt nature cremeux
+6,Carottes,200,60,Carottes fraiches et croquantes
+7,Pain complet,300,18,Pain complet bio
+8,Fromage de chevre,600,0,Fromage de chevre frais
+9,Salade verte,200,63,Salade verte fraeche
+10,eufs bio,400,50,eufs de poules elevees en plein air
+11,Oranges,300,90,Oranges juteuses et sucrees
+12,Baguette,200,60,Baguette traditionnelle
+13,Fromage bleu,700,20,Fromage bleu persille
+14,Jambon cru,600,30,Jambon cru de montagne
+15,Yaourt aux fruits,200,50,Yaourt aux fruits varies
+16,Poivrons,300,80,Poivrons colores et croquants
+17,Pain aux cereales,400,40,Pain aux cereales riches en fibres
+18,Fromage de brebis,800,20,Fromage de brebis artisanal
+19,Tomates,300,70,Tomates meres et juteuses
+20,Lait bio,200,50,Lait frais issu de l'agriculture biologique
+21,Peches,400,90,Peches meres et sucrees
+22,Pain aux noix,500,40,Pain aux noix fait maison
+23,Fromage feta,600,30,Fromage feta grecque
+24,Concombres,200,80,Concombres croquants
+25,eufs de caille,600,25,eufs de caille delicats
+26,Pain aux olives,400,46,Pain aux olives mediterraneen
+27,Fromage de raclette,900,12,Fromage de raclette fondant
+28,Lait d'amande,300,60,Lait d'amande non sucre
+29,Ananas,500,80,Ananas juteux et sucre
+30,Pain aux graines,400,35,Pain aux graines de lin et de courge
+31,Fromage camembert,700,30,Fromage camembert cremeux
+32,Jambon fume,600,35,Jambon fume de qualite superieure
+33,Yaourt grec,400,50,Yaourt grec onctueux
+34,Aubergines,300,63,Aubergines fraiches
+35,Lait de coco,300,37,Lait de coco en conserve
+36,Bananes,200,75,Bananes meres et savoureuses
+37,Pain sans gluten,500,35,Pain sans gluten artisanal
+38,Fromage parmesan,800,20,Fromage parmesan affine
+39,Salade de fruits,600,18,Salade de fruits frais
+40,Miel bio,700,27,Miel bio de haute qualite

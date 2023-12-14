@@ -1,0 +1,5 @@
+Id,Libelle,Qte,PVu,Total
+39,Salade de fruits,7,600,4200
+5,Yaourt nature,5,100,500
+37,Pain sans gluten,5,500,2500
+-,-,-,Total,7200

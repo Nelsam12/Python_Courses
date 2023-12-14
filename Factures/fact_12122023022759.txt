@@ -1,0 +1,3 @@
+Id,Libelle,Qte,PVu,Description,Total
+6,Carottes,7,200,Carottes fraiches et croquantes,1400
+-,-,-,-,Total,1400

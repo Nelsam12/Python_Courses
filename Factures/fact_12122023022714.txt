@@ -1,0 +1,3 @@
+Id,Libelle,Qte,PVu,Description,Total
+5,Yaourt nature,6,100,Yaourt nature cremeux,600
+-,-,-,-,Total,600

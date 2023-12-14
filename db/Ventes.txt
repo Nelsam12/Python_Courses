@@ -1,0 +1,57 @@
+Numero_Vente,Id,Libelle,Qte,PVu,description,Total
+09122023180232,4,Jambon cuit,7,4,Jambon cuit de qualite,28
+09122023180232,8,Fromage de chevre,5,6,Fromage de chevre frais,30
+09122023180606,1,Pomme,7,2,Delicieuses pommes fraiches,14
+09122023180606,8,Fromage de chevre,5,6,Fromage de chevre frais,30
+09122023180814,40,Miel bio,3,7,Miel bio de haute qualite,21
+09122023180814,7,Pain complet,5,3,Pain complet bio,15
+09122023180814,3,Fromage cheddar,4,5,Fromage cheddar vieilli,20
+09122023181224,40,Miel bio,3,700,Miel bio de haute qualite,2100
+09122023181328,40,Miel bio,2,700,Miel bio de haute qualite,1400
+09122023181328,8,Fromage de chevre,5,600,Fromage de chevre frais,3000
+09122023181648,2,Pain de ble,5,300,Pain croustillant fait de ble,1500
+09122023182253,32,Jambon fume,5,600,Jambon fume de qualite superieure,3000
+11122023104206,4,Jambon cuit,4,400,Jambon cuit de qualite,1600
+11122023104206,39,Salade de fruits,5,600,Salade de fruits frais,3000
+11122023115759,1,Pomme,1,200,Delicieuses pommes fraiches,200
+11122023115759,2,Pain de ble,2,300,Pain croustillant fait de ble,600
+11122023115759,6,Carottes,5,200,Carottes fraiches et croquantes,1000
+11122023115759,9,Salade verte,7,200,Salade verte fraeche,1400
+12122023021447,30,Pain aux graines,5,400,Pain aux graines de lin et de courge,2000
+12122023021447,35,Lait de coco,7,300,Lait de coco en conserve,2100
+12122023021845,4,Jambon cuit,5,400,Jambon cuit de qualite,2000
+12122023021845,6,Carottes,8,200,Carottes fraiches et croquantes,1600
+12122023021845,7,Pain complet,4,300,Pain complet bio,1200
+12122023022204,3,Fromage cheddar,12,5,Fromage cheddar vieilli,60
+12122023022204,7,Pain complet,4,300,Pain complet bio,1200
+12122023022204,8,Fromage de chevre,5,600,Fromage de chevre frais,3000
+12122023022612,34,Aubergines,7,300,Aubergines fraiches,2100
+12122023022612,27,Fromage de raclette,8,900,Fromage de raclette fondant,7200
+12122023022714,5,Yaourt nature,6,100,Yaourt nature cremeux,600
+12122023022759,6,Carottes,7,200,Carottes fraiches et croquantes,1400
+12122023023041,1,Pomme,10,200,Delicieuses pommes fraiches,2000
+12122023023041,2,Pain de ble,15,300,Pain croustillant fait de ble,4500
+12122023023516,1,Pomme,4,200,Delicieuses pommes fraiches,800
+12122023023954,1,Pomme,5,200,Delicieuses pommes fraiches,1000
+12122023024107,1,Pomme,4,200,Delicieuses pommes fraiches,800
+12122023024226,36,Bananes,5,200,Bananes meres et savoureuses,1000
+12122023024714,4,Jambon cuit,4,400,Jambon cuit de qualite,1600
+12122023025053,4,Jambon cuit,1,400,Jambon cuit de qualite,400
+12122023025053,5,Yaourt nature,4,100,Yaourt nature cremeux,400
+12122023025504,35,Lait de coco,4,300,Lait de coco en conserve,1200
+12122023025548,4,Jambon cuit,5,400,Jambon cuit de qualite,2000
+12122023135707,1,Pomme,54,200,Delicieuses pommes fraiches,10800
+12122023135707,25,eufs de caille,5,600,eufs de caille delicats,3000
+12122023141720,1,Pomme,2,200,Delicieuses pommes fraiches,400
+12122023141720,1,Pomme,7,200,Delicieuses pommes fraiches,1400
+12122023141806,1,Pomme,4,200,Delicieuses pommes fraiches,800
+12122023141806,1,Pomme,5,200,Delicieuses pommes fraiches,1000
+12122023143030,39,Salade de fruits,7,600,Salade de fruits frais,4200
+12122023143030,5,Yaourt nature,5,100,Yaourt nature cremeux,500
+12122023143030,37,Pain sans gluten,5,500,Pain sans gluten artisanal,2500
+12122023143219,5,Yaourt nature,4,100,Yaourt nature cremeux,400
+12122023143219,4,Jambon cuit,5,400,Jambon cuit de qualite,2000
+12122023143255,7,Pain complet,7,300,Pain complet bio,2100
+12122023143255,2,Pain de ble,5,300,Pain croustillant fait de ble,1500
+14122023004641,1,Pomme,2,200,Delicieuses pommes fraiches,400
+14122023004641,1,Pomme,2,200,Delicieuses pommes fraiches,400

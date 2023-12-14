@@ -1,0 +1,5 @@
+Id,Libelle,Qte,PVu,Description,Total
+3,Fromage cheddar,12,5,Fromage cheddar vieilli,60
+7,Pain complet,4,300,Pain complet bio,1200
+8,Fromage de chevre,5,600,Fromage de chevre frais,3000
+-,-,-,-,Total,4260

@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Description,Total
+1,Pomme,10,200,Delicieuses pommes fraiches,2000
+2,Pain de ble,15,300,Pain croustillant fait de ble,4500
+-,-,-,-,Total,6500

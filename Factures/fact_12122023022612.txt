@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Description,Total
+34,Aubergines,7,300,Aubergines fraiches,2100
+27,Fromage de raclette,8,900,Fromage de raclette fondant,7200
+-,-,-,-,Total,9300

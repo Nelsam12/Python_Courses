@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Total
+1,Pomme,54,200,10800
+25,eufs de caille,5,600,3000
+-,-,-,Total,13800

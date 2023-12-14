@@ -1,0 +1,6 @@
+Id,Libelle,Qte,PVu,Description,Total
+1,Pomme,1,200,Delicieuses pommes fraiches,200
+2,Pain de ble,2,300,Pain croustillant fait de ble,600
+6,Carottes,5,200,Carottes fraiches et croquantes,1000
+9,Salade verte,7,200,Salade verte fraeche,1400
+-,-,-,-,Total,3200

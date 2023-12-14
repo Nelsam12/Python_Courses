@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Description,Total
+30,Pain aux graines,5,400,Pain aux graines de lin et de courge,2000
+35,Lait de coco,7,300,Lait de coco en conserve,2100
+-,-,-,-,Total,4100

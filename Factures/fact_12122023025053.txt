@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Total
+4,Jambon cuit,1,400,400
+5,Yaourt nature,4,100,400
+-,-,-,Total,800

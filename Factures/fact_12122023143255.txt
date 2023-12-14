@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Total
+7,Pain complet,7,300,2100
+2,Pain de ble,5,300,1500
+-,-,-,Total,3600

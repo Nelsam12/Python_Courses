@@ -1,0 +1,5 @@
+Id,Libelle,Qte,PVu,Description,Total
+4,Jambon cuit,5,400,Jambon cuit de qualite,2000
+6,Carottes,8,200,Carottes fraiches et croquantes,1600
+7,Pain complet,4,300,Pain complet bio,1200
+-,-,-,-,Total,4800

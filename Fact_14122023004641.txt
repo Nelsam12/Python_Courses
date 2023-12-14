@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Total
+1,Pomme,2,200,400
+1,Pomme,2,200,400
+-,-,-,Total,800

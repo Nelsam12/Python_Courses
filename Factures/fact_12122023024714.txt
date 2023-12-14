@@ -1,0 +1,3 @@
+Id,Libelle,Qte,PVu,Total
+4,Jambon cuit,4,400,1600
+-,-,-,Total,1600
