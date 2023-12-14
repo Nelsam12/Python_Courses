@@ -18,3 +18,4 @@ main_loop(panier, available_products)
 traitement(panier, all_products, available_products)
 
 
+print("Fin du projet !")

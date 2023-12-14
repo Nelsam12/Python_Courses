@@ -304,6 +304,7 @@ def valider_panier(file_name_command: str, panier: list, all_products: list, fil
 def traitement(panier: list, all_products: list, available_products: list) -> None:
     while True:
         display_product(panier)
+        
         choice = input_choice('abc')
         if choice == 'a':
             valider_panier(COMMAND_LINE, panier, all_products, PRODUCT_FILE, PANIER, SALE_FILE)
