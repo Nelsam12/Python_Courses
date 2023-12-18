@@ -55,3 +55,10 @@ Numero_Vente,Id,Libelle,Qte,PVu,description,Total
 12122023143255,2,Pain de ble,5,300,Pain croustillant fait de ble,1500
 14122023004641,1,Pomme,2,200,Delicieuses pommes fraiches,400
 14122023004641,1,Pomme,2,200,Delicieuses pommes fraiches,400
+14122023125847,1,Pomme,7,200,Delicieuses pommes fraiches,1400
+14122023125847,29,Ananas,5,500,Ananas juteux et sucre,2500
+14122023130150,1,Pomme,2,200,Delicieuses pommes fraiches,400
+14122023130902,1,Pomme,2,200,Delicieuses pommes fraiches,400
+14122023131349,1,Pomme,2,200,Delicieuses pommes fraiches,400
+14122023132320,39,Salade de fruits,2,600,Salade de fruits frais,1200
+18122023015207,39,Salade de fruits,8,600,Salade de fruits frais,4800

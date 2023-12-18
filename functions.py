@@ -99,13 +99,14 @@ def get_product_by_id(list_product: list, IdP: int) -> list:
 
 def get_all_id_from_available(list_available: list) ->list:
     id_list = []
-    for p in list_available[1:]:
+    for p in list_available[:]:
         id_list.append(str(p[0]))
     return id_list
 
 def get_id(list_product: list) -> int:
     id_put = ""
-    while not (id_put.isdigit() and (id_put in get_all_id_from_available(list_product) or id_put == "0")):
+    list_id = get_all_id_from_available(list_product)
+    while not (id_put.isdigit() and (id_put in list_id or id_put == "0")):
         display_product(list_product)
         id_put = input("Entrez l'ID du produit : ")
         os.system("cls")
@@ -134,8 +135,8 @@ def ajouter_au_panier(panier, list_product, id_produit, quantite):
     print("Produit ajouté au panier.")
 
 def supprimer_du_panier(panier, id_produit):
-    for produit in panier[1:len(panier)-1]:
-        if int(produit[0]) == id_produit:
+    for produit in panier:
+        if produit[0] == id_produit:
             panier.remove(produit)
             print("Produit supprimé du panier.")
             return
@@ -155,24 +156,11 @@ def modifier_commande(panier: list, list_product: list, rep: int, somme):
         case 2:
             print("Voici votre panier actuel : ")
             id_produit = get_id(panier)
-            print(type(panier[0][0]))
+            # print(type(panier[0][0]))
             supprimer_du_panier(panier, id_produit)
         case 3:
             panier = vider_panier(panier)
 
-# def annuler_commande(panier):
-#     print("Voici votre panier actuel : ")
-#     display_product(panier)  
-#     choix = input("Voulez-vous annuler une commande ? [oui/non] ")
-#     if choix.lower() == "oui":
-#     # vider_panier(panier)
-#         id_produit = input("Entrez l'ID du produit à annuler : ")
-#     for produit in panier:
-#         if str(produit[0]) == id_produit:
-#             panier.remove(produit)
-#             print("La commande a été annulée.")
-#             return
-#     print("L'ID du produit n'a pas été trouvé dans le panier.")
 
 def annuler_commande(panier) -> None:
     panier = vider_panier(panier)
@@ -304,7 +292,7 @@ def valider_panier(file_name_command: str, panier: list, all_products: list, fil
 def traitement(panier: list, all_products: list, available_products: list) -> None:
     while True:
         display_product(panier)
-        
+
         choice = input_choice('abc')
         if choice == 'a':
             valider_panier(COMMAND_LINE, panier, all_products, PRODUCT_FILE, PANIER, SALE_FILE)

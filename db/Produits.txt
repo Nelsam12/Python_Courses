@@ -1,8 +1,8 @@
 Id,Libelle,Prix,Quantite,Description
-1,Pomme,200,76,Delicieuses pommes fraiches
+1,Pomme,200,50,Delicieuses pommes fraiches
 2,Pain de ble,300,23,Pain croustillant fait de ble
 3,Fromage cheddar,5,14,Fromage cheddar vieilli
-4,Jambon cuit,400,9,Jambon cuit de qualite
+4,Jambon cuit,400,4,Jambon cuit de qualite
 5,Yaourt nature,100,41,Yaourt nature cremeux
 6,Carottes,200,60,Carottes fraiches et croquantes
 7,Pain complet,300,18,Pain complet bio
@@ -27,9 +27,9 @@ Id,Libelle,Prix,Quantite,Description
 26,Pain aux olives,400,46,Pain aux olives mediterraneen
 27,Fromage de raclette,900,12,Fromage de raclette fondant
 28,Lait d'amande,300,60,Lait d'amande non sucre
-29,Ananas,500,80,Ananas juteux et sucre
+29,Ananas,500,70,Ananas juteux et sucre
 30,Pain aux graines,400,35,Pain aux graines de lin et de courge
-31,Fromage camembert,700,30,Fromage camembert cremeux
+31,Fromage camembert,700,28,Fromage camembert cremeux
 32,Jambon fume,600,35,Jambon fume de qualite superieure
 33,Yaourt grec,400,50,Yaourt grec onctueux
 34,Aubergines,300,63,Aubergines fraiches
@@ -37,5 +37,5 @@ Id,Libelle,Prix,Quantite,Description
 36,Bananes,200,75,Bananes meres et savoureuses
 37,Pain sans gluten,500,35,Pain sans gluten artisanal
 38,Fromage parmesan,800,20,Fromage parmesan affine
-39,Salade de fruits,600,18,Salade de fruits frais
+39,Salade de fruits,600,-2,Salade de fruits frais
 40,Miel bio,700,27,Miel bio de haute qualite

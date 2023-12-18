@@ -14,8 +14,7 @@ my_cart = get_file_content(PANIER)
 line_command = get_file_content(COMMAND_LINE)
 main_loop(panier, available_products)
 
+
 # Menu principal
 traitement(panier, all_products, available_products)
-
-
 print("Fin du projet !")

@@ -9,7 +9,7 @@ def display_product(list_product: list) -> None:
 
 def display_menu(list_items: list, start_count: int = 1, symb: str = "*", screen_width: int = 60) -> None:
     count = start_count
-    element = "{" + f": >{screen_width}" + "}"
+    element = "{" + f": ^{screen_width}" + "}"
     print(symb * screen_width)
     if isinstance(count, str):
         for titre in list_items:

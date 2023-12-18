@@ -1,0 +1,3 @@
+Id,Libelle,Qte,PVu,Total
+39,Salade de fruits,8,600,4800
+-,-,-,Total,4800

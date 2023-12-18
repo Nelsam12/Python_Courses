@@ -1,0 +1,4 @@
+Id,Libelle,Qte,PVu,Total
+1,Pomme,7,200,1400
+29,Ananas,5,500,2500
+-,-,-,Total,3900

@@ -55,3 +55,10 @@ Id,Libelle,Qte,PVu,Description,Total
 2,Pain de ble,5,300,Pain croustillant fait de ble,1500
 1,Pomme,2,200,Delicieuses pommes fraiches,400
 1,Pomme,2,200,Delicieuses pommes fraiches,400
+1,Pomme,7,200,Delicieuses pommes fraiches,1400
+29,Ananas,5,500,Ananas juteux et sucre,2500
+1,Pomme,2,200,Delicieuses pommes fraiches,400
+1,Pomme,2,200,Delicieuses pommes fraiches,400
+1,Pomme,2,200,Delicieuses pommes fraiches,400
+39,Salade de fruits,2,600,Salade de fruits frais,1200
+39,Salade de fruits,8,600,Salade de fruits frais,4800
